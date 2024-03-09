@@ -64,6 +64,7 @@ homebrew_installed_packages:
 
 homebrew_taps: []
 
+# packages: https://formulae.brew.sh/cask/
 homebrew_cask_appdir: /Applications
 homebrew_cask_apps:
   - chromedriver
@@ -79,6 +80,22 @@ homebrew_cask_apps:
   - transmit
   - iterm2
   - vlc
+  - 4k-youtube-to-mp3
+  - a-better-finder-rename
+  - adobe-acrobat-reader
+  - adobe-acrobat-pro
+  - alt-tab
+  - anki
+  - cleanmymac
+  - vmware-horizon-client
+  - xmind
+  - unnaturalscrollwheels
+  - sublime-merge
+  - synology-drive
+  - remnote
+  - postman
+  - microsoft-remote-desktop
+  
 
 # See `geerlingguy.mas` role documentation for usage instructions.
 mas_installed_apps: []
