@@ -97,10 +97,7 @@ homebrew_cask_apps:
   - messenger
   - notion
   - zalo
-  - nvm
-  - lazygit
   - microsoft-word
-  - qlmarkdown
   - htop
   
 # See `geerlingguy.mas` role documentation for usage instructions.
